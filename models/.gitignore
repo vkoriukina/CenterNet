@@ -1,2 +1,3 @@
 *
 !.gitignore
+/coco_resdcn18.pth

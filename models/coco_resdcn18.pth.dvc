@@ -1,0 +1,8 @@
+md5: 723ffb5ea731eb402ed2c21d13620916
+wdir: ..
+outs:
+- md5: 9aa3d48aa75876d473e3d2fccccaa0ea
+  path: models/coco_resdcn18.pth
+  cache: true
+  metric: false
+  persist: false
